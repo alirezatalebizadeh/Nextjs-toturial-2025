@@ -20,7 +20,7 @@
 *.pem
 
 
-.env
+
 
 # debug
 npm-debug.log*
